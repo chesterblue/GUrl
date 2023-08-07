@@ -1,5 +1,5 @@
 # @Author: chesterblue
-# @File Name: hunter.py
+# @File Name: main.py
 from query.fofa import fofaScan
 from query.hunter import hunterScan
 import click
